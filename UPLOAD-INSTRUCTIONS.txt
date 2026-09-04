@@ -1,0 +1,30 @@
+KARUNAAYU WEBSITE — GITHUB PAGES UPLOAD
+
+IMPORTANT
+Do not upload this ZIP file directly into the repository.
+First extract the ZIP, open the extracted folder, and upload everything inside it.
+The "assets" folder and "index.html" must both be visible at the repository root.
+
+STEPS
+1. Open: https://github.com/karunaayucare/Karunaayu
+2. Click "uploading an existing file" (or Add file > Upload files).
+3. Select every file and folder inside Karunaayu-GitHub-Pages.
+4. Click "Commit changes".
+5. Open Settings > Pages.
+6. Under Build and deployment, choose:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: /(root)
+7. Click Save and wait a few minutes.
+
+YOUR WEBSITE URL
+https://karunaayucare.github.io/Karunaayu/
+
+KEEP THE REPOSITORY NAME EXACTLY
+Karunaayu
+
+GOOGLE SEARCH (AFTER THE WEBSITE IS LIVE)
+Add this URL in Google Search Console as a URL-prefix property:
+https://karunaayucare.github.io/Karunaayu/
+
+Then complete verification, submit sitemap.xml, and request indexing for the home page.
